@@ -3,6 +3,6 @@ module.exports = {
   TrailingSlash: true,
   images: {
     loader: 'imgix',
-    path: '/',
+    path: 'https://mirko-maggiore.imgix.net/',
   },
 }
