@@ -1,7 +1,8 @@
 module.exports = {
   reactStrictMode: true,
-}
-
-module.exports = {
   TrailingSlash: true,
-};
+  images: {
+    loader: 'imgix',
+    path: '/',
+  },
+}
