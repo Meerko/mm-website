@@ -2,7 +2,6 @@ import homeStyles from '../styles/Home.module.css'
 import styles from '../styles/Layout.module.css'
 import Header from '../components/Header';
 import Button from '../components/Button';
-import Project from '../components/project';
 import useTranslation from 'next-translate/useTranslation';
 
 
